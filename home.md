@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Index -->
+<!-- SUBTITLE: Tabla de contenido -->
 
-# Header
-Primera página de Wiki
+# Index
+1. Categorías
