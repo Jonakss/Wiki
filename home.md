@@ -6,3 +6,6 @@
 2. <a href="http://localhost/Windows"> Windows </a>
 2. <a href="http://localhost/Freenas"> Freenas </a>
 3. <a href="http://localhost/Impresoras"> Impresoras </a>
+4. <a href="http://localhost/#"> Notebooks </a>
+5. <a href="http://localhost/#"> Torres de escritorio </a>
+6. <a href="http://localhost/#"> Otros </a>
