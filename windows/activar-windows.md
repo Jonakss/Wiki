@@ -4,3 +4,6 @@
 # Activación de windows
 ### Windows 10
  Microsoft Toolkit <a href="\\freenas\Taller\Activadores"> Freenas (Taller\Activadores) </a>
+ <script>
+ alert("Hola")
+ </script>
