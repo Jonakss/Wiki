@@ -11,6 +11,6 @@
 7. Enter Value Data 1 and select Decimal.
 8. Click OK. Exit Registry Editor.
 
-Cambiar el nombre del archivo <a href="">nombrePrograma.manifest</a> y luego copiarlo en la ubicacion del programa
+Cambiar el nombre del archivo <a href="ftp://192.168.1.54/Soluciones/Solucionar%20programas%20peque%C3%B1os%204k/nombrePrograma.manifest">nombrePrograma.manifest</a> y luego copiarlo en la ubicacion del programa
 
 Fuente: http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
