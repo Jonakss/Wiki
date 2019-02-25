@@ -5,7 +5,7 @@
 ### MP250, MP280
 
 
-E02. No hay papel, no entra papel.
+> E02. No hay papel, no entra papel.
 E03. La bandeja de salida de papel está cerrada, papel atascado.
 E04. No se reconoce cartucho FINE.
 E05. No se reconoce cartucho FINE.
