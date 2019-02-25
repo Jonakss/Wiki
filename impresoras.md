@@ -6,5 +6,5 @@
 1. <a href="/reset-epson"> Reset </a>
 
 ##Canon
-* Codigo de errores
-* <a href="/reset-epson"> Reset </a>
+1.  <a href="/reset-epson"> Codigo de errores </a>
+1. <a href="/reset-epson"> Reset </a>
