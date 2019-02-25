@@ -1,5 +1,6 @@
 <!-- TITLE: Porgramas Pequenos 4 K -->
 <!-- SUBTITLE: A quick summary of Porgramas Pequenos 4 K -->
+<!-- KEYWORDS: 4k, alto DPI -->
 
 # Problema de escalado con pantallas de alto DPI
 1. Press  Windows Button + R, type `regedit`, and then click OK.
