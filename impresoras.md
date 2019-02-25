@@ -3,8 +3,8 @@
 
 # Impresoras
 ##Epson
-* Reset
+* <a href="/reset-epson"> Reset </a>
 
 ##Canon
 * Codigo de errores
-* Reset
+* <a href="/reset-epson"> Reset </a>
