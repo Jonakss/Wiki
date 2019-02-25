@@ -19,3 +19,6 @@
 `E30` El tamaño del original no se puede detectar correctamente.
 `E31` El equipo no está conectado con la PC.
 `E5o` Error escaneo de hoja de alineación automática.
+
+## Herramientas
+### MP250, MP280
