@@ -1,6 +1,7 @@
 <!-- TITLE: Codigo Errores Canon -->
 <!-- SUBTITLE: A quick summary of Codigo Errores Canon -->
 
+/<a href="/impresoras"> Impresoras </a>/ <a href="/Códigos "> Impresoras </a>
 # Codigo de errores Canon
 ## Errores
 ### MP250, MP280
