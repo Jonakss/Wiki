@@ -24,13 +24,13 @@
 ### MP250, MP280
 
 `A` Permite imprimir el patrón de prueba de los inyectores.
-`H`Permite limpiar el cabezal de impresión. 
-`Y`Permite limpiar a fondo el cabezal de impresión.
-`u`Permite imprimir la hoja de alineación de los cabezales de impresión.
-`U`Escanea la hoja de alineación de los cabezales de impresión para alinear automáticamente el cabezal de impresión. 
-`L`Permite imprimir los valores de ajuste actuales de la posición del cabezal.
-`b`Permite limpiar el rodillo de alimentación del papel. 
-`J`Permite limpiar el interior del equipo.
-`d`Permite cambiar el tamaño del papel cargado en la bandeja posterior entre A4 y 8,5" x 11" (Carta). (Esta configuración se utiliza para realizar copias.) 
-`ᴦ`Permite configurar el equipo para evitar la abrasión del papel. 
+`H` Permite limpiar el cabezal de impresión. 
+`Y` Permite limpiar a fondo el cabezal de impresión.
+`u` Permite imprimir la hoja de alineación de los cabezales de impresión.
+`U` Escanea la hoja de alineación de los cabezales de impresión para alinear automáticamente el cabezal de impresión. 
+`L` Permite imprimir los valores de ajuste actuales de la posición del cabezal.
+`b` Permite limpiar el rodillo de alimentación del papel. 
+`J` Permite limpiar el interior del equipo.
+`d` Permite cambiar el tamaño del papel cargado en la bandeja posterior entre A4 y 8,5" x 11" (Carta). (Esta configuración se utiliza para realizar copias.) 
+`ᴦ` Permite configurar el equipo para evitar la abrasión del papel. 
 
