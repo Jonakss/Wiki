@@ -23,9 +23,9 @@
 
 ### MG2400, MG2410
 
-				2 destellos	No hay papel en la bandeja posterior.	1000
-3 destellos	La tapa se abre mientras la impresión está en curso.	1203
-	El papel está atascado en la ranura de salida del papel.	1300
+2 destellos	No hay papel en la bandeja posterior.	1000
+	3  destellos	La tapa se abre mientras la impresión está en curso.	1203
+	   El papel está atascado en la ranura de salida del papel.	1300
 4 destellos	El cartucho FINE no está instalado correctamente.	1687
 5 destellos	El cartucho FINE no está instalado.	1401
 	No está instalado el cartucho FINE adecuado.	1403, 1485
