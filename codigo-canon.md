@@ -23,21 +23,29 @@
 
 ### MG2400, MG2410
 
-	Destellos LED
-`2`    No hay papel en la bandeja posterior.	1000
-`3`    La tapa se abre mientras la impresión está en curso.	1203
-	        El papel está atascado en la ranura de salida del papel.	1300
-`4`    El cartucho FINE no está instalado correctamente.	1687
-`5`    El cartucho FINE no está instalado.	1401
-	        No está instalado el cartucho FINE adecuado.	1403, 1485
-`8`    Absorbedor de tinta está casi lleno.	1700, 1701
-`9`    Puede que el material de protección del soporte de cartucho FINE o la cinta siga en el soporte.	1890
-`11`  Los parámetros de tipo de papel y tamaño de papel son incorrectos.	4102
-`12`  No es posible imprimir los contenidos de CREATIVE PARK PREMIUM.	4100
-`13`  Es posible que se haya agotado la tinta.	1686
-`14`  No se puede reconocer el cartucho FINE.	1684
-`15`  No se puede reconocer el cartucho FINE.	1682
-`16`  Se ha agotado la tinta.	1688
+Destellos LED asistencia
+
+`2`    No hay papel en la bandeja posterior.	`1000`
+`3`    La tapa se abre mientras la impresión está en curso.	`1203`
+	        El papel está atascado en la ranura de salida del papel.	`1300`
+`4`    El cartucho FINE no está instalado correctamente.	`1687`
+`5`    El cartucho FINE no está instalado.	`1401`
+	        No está instalado el cartucho FINE adecuado.	`1403`, `1485`
+`8`    Absorbedor de tinta está casi lleno.	`1700`, `1701`
+`9`    Puede que el material de protección del soporte de cartucho FINE o la cinta siga en el soporte.	`1890`
+`11`  Los parámetros de tipo de papel y tamaño de papel son incorrectos.	`4102`
+`12`  No es posible imprimir los contenidos de CREATIVE PARK PREMIUM.	`4100`
+`13`  Es posible que se haya agotado la tinta.	`1686`
+`14`  No se puede reconocer el cartucho FINE.	`1684`
+`15`  No se puede reconocer el cartucho FINE.	`1682`
+`16`  Se ha agotado la tinta.	`1688`
+
+Destellos LED asistencia y power
+
+`2`         Se ha producido un error en la impresora.	`5100`							
+`7`         Se ha producido un error en la impresora.	`5B00, 5B01`							
+`10`       Se ha producido un error que requiere que se ponga en contacto con el servicio técnico.	`B200, B201`						
+`Otros`	Se ha producido un error en la impresora.	`5011, 5012, 5200, 5400, 6000, 6800, 6801, 6930, 6931, 6932, 6933, 6936, 6937, 6938, 6940, 6941, 6942, 6943, 6944, 6945, 6946`							
 
 ## Herramientas
 ### MP250, MP280
