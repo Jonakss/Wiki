@@ -23,20 +23,21 @@
 
 ### MG2400, MG2410
 
-2 destellos	No hay papel en la bandeja posterior.	1000
-	3  destellos	La tapa se abre mientras la impresión está en curso.	1203
-	   El papel está atascado en la ranura de salida del papel.	1300
-4 destellos	El cartucho FINE no está instalado correctamente.	1687
-5 destellos	El cartucho FINE no está instalado.	1401
-	No está instalado el cartucho FINE adecuado.	1403, 1485
-8 destellos	Absorbedor de tinta está casi lleno.	1700, 1701
-9 destellos	Puede que el material de protección del soporte de cartucho FINE o la cinta siga en el soporte.	1890
-11 destellos	Los parámetros de tipo de papel y tamaño de papel son incorrectos.	4102
-12 destellos	No es posible imprimir los contenidos de CREATIVE PARK PREMIUM.	4100
-13 destellos	Es posible que se haya agotado la tinta.	1686
-14 destellos	No se puede reconocer el cartucho FINE.	1684
-15 destellos	No se puede reconocer el cartucho FINE.	1682
-16 destellos	Se ha agotado la tinta.	1688
+	Destellos LED
+`2`    No hay papel en la bandeja posterior.	1000
+`3`    La tapa se abre mientras la impresión está en curso.	1203
+	        El papel está atascado en la ranura de salida del papel.	1300
+`4`    El cartucho FINE no está instalado correctamente.	1687
+`5`    El cartucho FINE no está instalado.	1401
+	        No está instalado el cartucho FINE adecuado.	1403, 1485
+`8`    Absorbedor de tinta está casi lleno.	1700, 1701
+`9`    Puede que el material de protección del soporte de cartucho FINE o la cinta siga en el soporte.	1890
+`11`  Los parámetros de tipo de papel y tamaño de papel son incorrectos.	4102
+`12`  No es posible imprimir los contenidos de CREATIVE PARK PREMIUM.	4100
+`13`  Es posible que se haya agotado la tinta.	1686
+`14`  No se puede reconocer el cartucho FINE.	1684
+`15`  No se puede reconocer el cartucho FINE.	1682
+`16`  Se ha agotado la tinta.	1688
 
 ## Herramientas
 ### MP250, MP280
