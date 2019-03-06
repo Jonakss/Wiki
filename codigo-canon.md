@@ -22,8 +22,8 @@
 `E5o` Error escaneo de hoja de alineación automática.
 
 ### MG2400, MG2410
-<div style="display: block">
-2 destellos	No hay papel en la bandeja posterior.	1000
+
+				2 destellos	No hay papel en la bandeja posterior.	1000
 3 destellos	La tapa se abre mientras la impresión está en curso.	1203
 	El papel está atascado en la ranura de salida del papel.	1300
 4 destellos	El cartucho FINE no está instalado correctamente.	1687
@@ -37,7 +37,7 @@
 14 destellos	No se puede reconocer el cartucho FINE.	1684
 15 destellos	No se puede reconocer el cartucho FINE.	1682
 16 destellos	Se ha agotado la tinta.	1688
-</div>
+
 ## Herramientas
 ### MP250, MP280
 
