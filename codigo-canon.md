@@ -21,6 +21,23 @@
 `E31` El equipo no está conectado con la PC.
 `E5o` Error escaneo de hoja de alineación automática.
 
+### MG2400, MG2410
+
+`2` destellos	No hay papel en la bandeja posterior.	1000	                                                         `2` destellos	Se ha producido un error en la impresora.	5100
+`3` destellos	La tapa se abre mientras la impresión está en curso.	1203	                                 `7` destellos	Se ha producido un error en la impresora.	5B00, 5B01
+		El papel está atascado en la ranura de salida del papel.	1300	                                               `10` destellos	Se ha producido un error que requiere que se ponga en contacto con el servicio técnico.	B200, B201
+`4` destellos	El cartucho FINE no está instalado correctamente.	1687	Otros casos distintos de los anteriores	Se ha producido un error en la impresora.	5011, 5012, 5200, 5400, 6000, 6800, 6801, 6930, 6931, 6932, 6933, 6936, 6937, 6938, 6940, 6941, 6942, 6943, 6944, 6945, 6946
+`5` destellos	El cartucho FINE no está instalado.	1401			
+	No está instalado el cartucho FINE adecuado.	1403, 1485			
+`8` destellos	Absorbedor de tinta está casi lleno.	1700, 1701			
+`9` destellos	Puede que el material de protección del soporte de cartucho FINE o la cinta siga en el soporte.	1890			
+`11` destellos	Los parámetros de tipo de papel y tamaño de papel son incorrectos.	4102			
+`12` destellos	No es posible imprimir los contenidos de CREATIVE PARK PREMIUM.	4100			
+`13` destellos	Es posible que se haya agotado la tinta.	1686			
+`14` destellos	No se puede reconocer el cartucho FINE.	1684			
+`15` destellos	No se puede reconocer el cartucho FINE.	1682			
+`16` destellos	Se ha agotado la tinta.	1688			
+
 ## Herramientas
 ### MP250, MP280
 
