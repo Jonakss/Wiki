@@ -1,6 +1,7 @@
 <!-- TITLE: Impresoras -->
 <!-- SUBTITLE: A quick summary of Impresoras -->
 
+<a href="/">Home</a>/ <a href="/impresoras">Impresoras</a> /
 # Impresoras
 ## Epson
 1. <a href="/reset-epson"> Reset </a>
