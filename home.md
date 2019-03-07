@@ -8,5 +8,5 @@
 3. <a href="/Impresoras"> Impresoras </a>
 4. <a href="/#"> Notebooks </a>
 5. <a href="/#"> Torres de escritorio </a>
-6. <a href="/#"> BIOS </a>
+6. <a href="/bios"> BIOS </a>
 6. <a href="/#"> Otros </a>
