@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Lista de soluciones para windows -->
 
 <script>
-	document.getElementById("breadcrum").value = "Prueba";
+	document.getElementById("breadcrum").innerHTML = "Prueba"
 </script>
 
 <span id="breadcrum">a</span>
