@@ -19,7 +19,7 @@
 	urls.forEach(function(url){
 		document.getElementById("breadcrum").innerHTML += "/";
 		if(url == ""){
-		document.getElementById("breadcrum").innerHTML += "Home ";
+		document.getElementById("breadcrum").innerHTML += "Home";
 		}else{
 		document.getElementById("breadcrum").innerHTML += url;
 		}
