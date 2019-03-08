@@ -16,12 +16,11 @@
 	var urls = fullURL.split("/");
 	var path = "/";
 	urls.forEach(function(url){
-		document.getElementById("breadcrum").innerHTML += " > ";
 		if(url == ""){
 		document.getElementById("breadcrum").innerHTML += '<a href="/">Home</a>';
 		}else{
 			path +=url + "/";
-			document.getElementById("breadcrum").innerHTML += '<a href="'+ path + '">' + url + '</a>';
+			document.getElementById("breadcrum").innerHTML += '<a href="'+ path + '"> > ' + url + '</a>';
 		}
 	});
 </script>
