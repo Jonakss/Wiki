@@ -1,7 +1,7 @@
 <!-- TITLE: Windows -->
 <!-- SUBTITLE: Lista de soluciones para windows -->
 
-<span id="breadcrum">a</span>
+<span id="breadcrum"></span>
 
 # Index
 1. <a href="/Windows/activar-windows"> Activar windows </a>
@@ -18,6 +18,9 @@
 	
 	urls.forEach(function(url){
 		document.getElementById("breadcrum").innerHTML += "/";
+		if(url = "")
+		document.getElementById("breadcrum").innerHTML += "Home";
+		else
 		document.getElementById("breadcrum").innerHTML += url;
 	});
 </script>
