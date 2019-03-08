@@ -20,7 +20,7 @@
 		if(url == ""){
 		document.getElementById("breadcrum").innerHTML += '<a href="/">Home</a>';
 		}else{
-			path +=url;
+			path +=url + "/";
 			document.getElementById("breadcrum").innerHTML += '<a href="'+ path + '">' + url + '</a>';
 		}
 	});
