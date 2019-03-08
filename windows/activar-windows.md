@@ -7,7 +7,7 @@ var a = document.getElementById("title");
 var span = document.createElement("p");
 span.setAttribute("id", "breadcrum");
 var aa = a.parentNode.parentNode;
-var fc = aa.childNodes[1];
+var fc = aa.childNodes[1].firstchild;
 aa.appendChild(span, fc);
 
 var fullURL = window.location.pathname;var urls = fullURL.split("/");var path = "/";urls.forEach(function(url){if(url == ""){document.getElementById("breadcrum").innerHTML += '<a href="/">Home</a>';}else{document.getElementById("breadcrum").innerHTML += " > ";path +=url + "/";document.getElementById("breadcrum").innerHTML += '<a href="'+ path + '">' + url + '</a>';}});});</script>
