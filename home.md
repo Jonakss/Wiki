@@ -1,7 +1,6 @@
 <!-- TITLE: Index -->
 <!-- SUBTITLE: Tabla de contenido -->
 
-<script></script>
 
 # Index
 1. <a href="/wiki"> Documentacion, ayuda y FAQ sobre esta WIKI </a>
