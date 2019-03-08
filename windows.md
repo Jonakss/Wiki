@@ -13,5 +13,11 @@
 
 
 <script>
-	document.getElementById("breadcrum").innerHTML = "Prueba";
+	var fullURL = windows.location.pathname;
+	var urls = fullURL.split("/");
+	
+	urls.forEach(funtionc(url){
+		document.getElementById("breadcrum").innerHTML += "/";
+		document.getElementById("breadcrum").innerHTML += url;
+	});
 </script>
