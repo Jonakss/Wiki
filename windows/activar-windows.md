@@ -1,15 +1,7 @@
 <!-- TITLE: Activar Windows -->
 <!-- SUBTITLE: Metodos para activar windows -->
 
-<script>
-$(document).ready(function(){
-var a = document.getElementById("title");
-var span = document.createElement("p");
-span.setAttribute("id", "breadcrum");
-var aa = a.parentNode.parentNode;
-aa.childNodes[1].insertBefore(span, aa.childNodes[1].firstChild);
-
-var fullURL = window.location.pathname;var urls = fullURL.split("/");var path = "/";urls.forEach(function(url){if(url == ""){document.getElementById("breadcrum").innerHTML += '<a href="/">Home</a>';}else{document.getElementById("breadcrum").innerHTML += " > ";path +=url + "/";document.getElementById("breadcrum").innerHTML += '<a href="'+ path + '">' + url + '</a>';}});});</script>
+<script>$(document).ready(function(){var e=document.getElementById("title"),t=document.createElement("p");t.setAttribute("id","breadcrum");var n=e.parentNode.parentNode;n.childNodes[1].insertBefore(t,n.childNodes[1].firstChild);var r=window.location.pathname.split("/"),d="/";r.forEach(function(e){""==e?document.getElementById("breadcrum").innerHTML+='<a href="/">Home</a>':(document.getElementById("breadcrum").innerHTML+=" > ",d+=e+"/",document.getElementById("breadcrum").innerHTML+='<a href="'+d+'">'+e+"</a>")})});</script>
 # Activación de windows
 ### Windows 10
  Microsoft Toolkit <a href="\\freenas\Taller\Activadores"> Freenas (Taller\Activadores) </a>
