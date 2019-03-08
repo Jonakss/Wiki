@@ -14,9 +14,8 @@
  <script>
 	var fullURL = window.location.pathname;
 	var urls = fullURL.split("/");
-	var path = "";
+	var path = "/";
 	urls.forEach(function(url){
-		path += "/";
 		document.getElementById("breadcrum").innerHTML += "/";
 		if(url == ""){
 		document.getElementById("breadcrum").innerHTML += '<a href="/">Home</a>';
