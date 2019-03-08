@@ -1,7 +1,9 @@
 <!-- TITLE: Windows -->
 <!-- SUBTITLE: Lista de soluciones para windows -->
 
-<script></script>
+<script>
+	getElementById("breadcrum").value = "Prueba";
+</script>
 
 <span id="breadcrum">a</span>
 
