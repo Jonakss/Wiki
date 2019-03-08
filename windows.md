@@ -13,10 +13,10 @@
 
 
 <script>
-	var fullURL = windows.location.pathname;
+	var fullURL = window.location.pathname;
 	var urls = fullURL.split("/");
 	
-	urls.forEach(funtionc(url){
+	urls.forEach(function(url){
 		document.getElementById("breadcrum").innerHTML += "/";
 		document.getElementById("breadcrum").innerHTML += url;
 	});
