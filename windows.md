@@ -1,11 +1,9 @@
 <!-- TITLE: Windows -->
 <!-- SUBTITLE: Lista de soluciones para windows -->
 
-<script>
+<script></script>
 
-</script>
-
-<div id="breadcrum"></div>
+<div id="breadcrum">a</div>
 # Index
 1. <a href="/Windows/activar-windows"> Activar windows </a>
 2. <a href="/windows/porgramas-pequenos-4-k"> Programas pequeños en pantallas con resolución 4K </a>
