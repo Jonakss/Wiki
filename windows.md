@@ -19,9 +19,9 @@
 	urls.forEach(function(url){
 		document.getElementById("breadcrum").innerHTML += "/";
 		if(url == ""){
-		document.getElementById("breadcrum").innerHTML += "Home";
+		document.getElementById("breadcrum").innerHTML += "<a href="/">Home</a>";
 		}else{
-		document.getElementById("breadcrum").innerHTML += url;
+		document.getElementById("breadcrum").innerHTML += "<a href="/"+ url + ">" + url + "</a>";
 		}
 	});
 </script>
