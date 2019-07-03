@@ -4,4 +4,4 @@
 
 
 # Programas
-1. <a href="/programas/CorelDRAW/"> CorelDRAW </a>
+1. <a href="/programas/corel-draw/"> CorelDRAW </a>
